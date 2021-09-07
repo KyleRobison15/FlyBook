@@ -1,0 +1,8 @@
+.DS_Store
+bin
+target
+build
+.gradle
+*.war
+*.bak
+/.metadata/
